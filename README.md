@@ -5,5 +5,5 @@ Description: Students have a lot to keep track of; most students have jobs and 4
 Members of Xteam 220:
 JING ZHANG (group leader): jzhang999@wisc.edu
 XINGYU LIAN: xlian6@wisc.edu
-
+Ian Horvath: ihorvath@wisc.edu
 
